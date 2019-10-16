@@ -1,0 +1,2 @@
+Count x = new Count();
+x.inputTime();
