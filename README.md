@@ -8,3 +8,4 @@ HOW TO START THIS PROJECT: Tell the program how many hours, days, months and/or 
 AUTHORS: Tom Parr
 USER INSTRUCTIONS:
 use input windows to input the total amount of time you want to measure and the program will tell you how many hours it is.
+This could easily be adapted to change what form the output would have.
